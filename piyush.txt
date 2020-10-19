@@ -1,2 +1,4 @@
-hello, from master
-from second branch
+hello, first changed
+2nd change added
+3rd line added
+
